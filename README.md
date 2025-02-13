@@ -94,14 +94,6 @@ Screenshot of the Application
 -   **POST `/upload/`:** Handles file uploads, extracts text, stores it in FAISS, and generates a summary.
 -   **POST `/qa/`:** Answers questions based on the content of the uploaded document.
 
-### Code Structure
-
-SumItUpBot-SnapQA-with-AI-Power/
-├── app.py            # Streamlit frontend
-├── main.py           # FastAPI backend
-├── README.md         # Project documentation (this file)
-├── requirements.txt  # Project dependencies
-└── Screenshot 2.png  # Project Screenshot file
 
 
 
